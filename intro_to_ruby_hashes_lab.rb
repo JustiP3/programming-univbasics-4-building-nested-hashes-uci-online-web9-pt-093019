@@ -22,14 +22,14 @@ def monopoly_with_third_tier
         },
       :names => {
         :johnny => "loser",
-        :dave => "wild card"
-        :dallas => "hipster"
+        :dave => "wild card",
+        :dallas => "hipster",
         :kevin => "jock"
         }
       } 
       
     }
-  }
+  
 end
 
 def monopoly_with_fourth_tier
