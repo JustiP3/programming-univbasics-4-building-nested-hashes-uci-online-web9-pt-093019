@@ -22,7 +22,7 @@ def monopoly_with_third_tier
         },
       :names => {
         :reading_railroad => {},
-        :dave => "wild card",
+        :pennsylvania_railroad => {},
         :dallas => "hipster",
         :kevin => "jock"
         }
