@@ -1,5 +1,7 @@
 def base_hash
-  menu = Hash.new 
+  menu = {
+    :chicken => "5.50"
+  }
 end
 
 def monopoly_with_second_tier
