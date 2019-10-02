@@ -1,6 +1,6 @@
 def base_hash
-  menu = {
-    :chicken => "5.50"
+  monopoly = {
+    :railroads => {}
   }
 end
 
